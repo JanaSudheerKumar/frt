@@ -24,3 +24,19 @@ Static Web App URL :
 App Services URL : 
 
 My Website Link: 
+
+## Homepage
+![Screenshot_20221109_015835](https://user-images.githubusercontent.com/113497303/200779686-6f0ecc31-58a4-435b-9f5d-6c584cbb49ff.png)
+![Screenshot_20221109_015917](https://user-images.githubusercontent.com/113497303/200779743-ecc5f7d4-6f5e-4fe3-9a04-89cfb40723b4.png)
+![Screenshot_20221109_020058](https://user-images.githubusercontent.com/113497303/200779777-68a015cb-367b-468e-886e-bd0fcd7cd935.png)
+
+## About US
+![Screenshot_20221109_020117](https://user-images.githubusercontent.com/113497303/200779989-fc7f6d01-0ab3-47ed-bd95-41c01107f889.png)
+![Screenshot_20221109_020058](https://user-images.githubusercontent.com/113497303/200780453-f92b5bd3-0fde-416f-a3b0-832fab2d9e7a.png)
+
+
+## Contact US
+![Screenshot_20221109_020134](https://user-images.githubusercontent.com/113497303/200780109-b16df1d6-1705-43b0-932f-af456bdfeed2.png)
+![Screenshot_20221109_020058](https://user-images.githubusercontent.com/113497303/200780495-6f05696c-2d4c-4a9d-bc70-0ee105e95aa4.png)
+
+
