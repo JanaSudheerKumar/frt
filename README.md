@@ -13,9 +13,9 @@ Industry : Lifestyle
 
 Project Title : Foodie Blog
 
-Problem Statement/Opportunity : Every One Good Health Could Depend Upon Quality Of Food Taken.
+Problem Statement/Opportunity : Every One Good Health Could Depend.
 
-Project Description : Best Food Quality Is Important To Us Every One Good Health Could Depend Upon Quality Of Food Taken.
+Project Description : Best Food Quality Is Important To Us.
 
 Primary Azure Technology : Static Web Apps, App Service
 
