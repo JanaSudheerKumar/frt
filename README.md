@@ -19,11 +19,11 @@ Project Description : Best Food Quality Is Important To Us.
 
 Primary Azure Technology : Static Web Apps, App Service
 
-Static Web App URL : 
+Static Web App URL : https://ashy-pebble-06e442b10.2.azurestaticapps.net
 
-App Services URL : 
+App Services URL : https://foodlovers.azurewebsites.net
 
-My Website Link: 
+My Website Link: https://ashy-pebble-06e442b10.2.azurestaticapps.net
 
 ## Homepage
 ![Screenshot_20221109_015835](https://user-images.githubusercontent.com/113497303/200779686-6f0ecc31-58a4-435b-9f5d-6c584cbb49ff.png)
@@ -38,5 +38,8 @@ My Website Link:
 ## Contact US
 ![Screenshot_20221109_020134](https://user-images.githubusercontent.com/113497303/200780109-b16df1d6-1705-43b0-932f-af456bdfeed2.png)
 ![Screenshot_20221109_020058](https://user-images.githubusercontent.com/113497303/200780495-6f05696c-2d4c-4a9d-bc70-0ee105e95aa4.png)
+
+## App Services Used
+![Screenshot 2022-11-11 171428](https://user-images.githubusercontent.com/113497303/201333830-22a16609-143f-4aa3-a421-b00f40711ab1.jpg)
 
 
